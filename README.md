@@ -1,4 +1,4 @@
-# This repository/software is licensed under CC-NC-ND, check it out:
+# 📜 This repository/software is licensed under CC-NC-ND, check it out:
 
 You are free to:
 Share — copy and redistribute the material in any medium or format
@@ -12,7 +12,7 @@ NoDerivatives — If you remix, transform, or build upon the material, you may n
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-# This repository contains the MythEngine plugins and behaviors. 
+# 🎮 This repository contains the MythEngine plugins and behaviors. 
 What are behaviors and plugins? Behaviors are features you can give to a certain object, in MythEngine there are more than 30! Plugins are types of items that you can add to your game, which are many!
 
 ---> PLUGINS:
