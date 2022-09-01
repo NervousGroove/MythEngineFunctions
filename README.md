@@ -93,3 +93,6 @@ https://github.com/NervousGroove/MythEngineFunctions/tree/main/turret
 
 - Wrap:
 https://github.com/NervousGroove/MythEngineFunctions/tree/main/wrap
+
+# HOW CAN I CONVERT MY GAME INTO AN EXECUTABLE FOR WINDOWS, MACOS, OR LINUX?
+You can use NWjs [https://nwjs.io/] to create an executable from your game HTML, JS, CSS! Totally free, go to https://nwjs.io/
