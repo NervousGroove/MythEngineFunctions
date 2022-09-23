@@ -14,8 +14,8 @@ NoDerivatives — If you remix, transform, or build upon the material, you may n
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-# 🎮 This repository contains the MythEngine plugins and behaviors. 
-What are behaviors and plugins? Behaviors are features you can give to a certain object, in MythEngine there are more than 30! Plugins are types of items that you can add to your game, which are many!
+# 🎮 This repository contains the SpellSide plugins and behaviors. 
+What are behaviors and plugins? Behaviors are features you can give to a certain object, in SpellSide there are more than 30! Plugins are types of items that you can add to your game, which are many!
 
 ---> PLUGINS:
 - All plugins: https://github.com/NervousGroove/MythEngineFunctions/tree/main/plugins2
