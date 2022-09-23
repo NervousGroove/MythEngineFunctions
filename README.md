@@ -1,3 +1,5 @@
+SpellMax3 ---> https://github.com/NervousGroove/SpellMax
+
 # 📜 This repository/software is licensed under CC-NC-ND, check it out:
 
 You are free to:
